@@ -1,2 +1,2 @@
-Computer Science student diving into game development and embedded systems. 
+Computer Science student diving into robotics and embedded systems. 
 
