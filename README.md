@@ -1,2 +1,2 @@
-Computer Science student diving into robotics and embedded systems. 
+Computer Science student diving into operating systems in embedded systems. 
 
