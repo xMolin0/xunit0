@@ -1,4 +1,4 @@
-### Hi, I’m Xavier 👋
+
 
 Computer Science @ UNC Charlotte — diving deep into **operating systems** and **embedded systems**.
 
